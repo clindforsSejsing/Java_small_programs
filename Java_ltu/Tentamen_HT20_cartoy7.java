@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Omtentamen_HT20_cartoy7 {
+public class Tentamen_HT20_cartoy7 {
    public static Scanner scanner = new Scanner(System.in);
 
    /* * LTU Hockey games. Meny 1 med följande val; Registrera lag, upp till 4 st. 2. utskrift med tilldelat nummer.
